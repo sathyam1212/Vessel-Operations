@@ -1,1 +1,1 @@
-# Vessel-Operations
+This project is a Vessel Operations Web Application that demonstrates the use of Agentic AI in maritime operations. It provides real-time and historical vessel metrics, logistics tracking, sustainability reporting, and an AI-powered assistant for operational insights and decision support. The application aims to optimize maritime workflows, improve efficiency, and support green shipping initiatives through predictive analytics, anomaly detection, and intelligent automation.
